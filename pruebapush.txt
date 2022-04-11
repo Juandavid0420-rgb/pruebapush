@@ -4,3 +4,7 @@ mi primer pull a git
 
 
 andres  pendejo 
+
+push : del pc a github : git push
+
+pull : de github al pc : git pull
