@@ -1,3 +1,6 @@
 mi primer push a github
 
 mi primer pull a git 
+
+
+andres  pendejo 
