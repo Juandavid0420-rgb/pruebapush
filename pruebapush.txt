@@ -5,6 +5,18 @@ mi primer pull a git
 
 andres  pendejo 
 
+
+para mi pc, en visual se le da al arbolito al + luego al chulito y en la parte superior sale una venta en esta pongo 
+
+el mensaje del commit el cual guarda todos los cambios en ese commit, luego de poner el commit se da "enter" y le 
+
+das al cuadradito azul con un 1 y unas flechas haciendo un circulo, luego miras github en el "Proyecto" y das f5 o refrescas
+
+la pantalla y listo 
+
+
+
+
 push : del pc a github : git push
 
 pull : de github al pc : git pull
